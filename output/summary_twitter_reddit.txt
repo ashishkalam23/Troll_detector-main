@@ -1,0 +1,36 @@
+Pipeline Summary
+=================
+
+Light Summary
+-----------------
+Candidate Dataset: twitter (tweet)
+Reference Dataset: reddit (title)
+
+Paraphrase Similarity (Threshold: 0.8)
+Total Matches Found: 19
+Average Match Similarity: 0.84
+
+Candidates:
+- Total Candidates: 12
+- Candidates Matched to References: 11 (91.7%)
+- Repetitive Candidates: 3 (25.0%)
+
+References:
+- Total References: 10
+- References Matched by Candidates: 8 (80.0%)
+- Repetitive References: 2 (20.0%)
+
+Cross-Matching Paraphrase Repetition Analysis (Threshold 0.8):
+- Repetitive Candidates that Matched References: 3 (100.0% of repetitive candidates)
+- Titles Matched by Repetitive Candidates: 4 (50.0% of matched titles)
+
+
+Detailed Metrics
+--------------------
+Internal Repetitions:
+- Candidate Internal Repetitions (pairs): 6
+- Reference Internal Repetitions (pairs): 2
+
+Repetitive Match Statistics:
+- Repetitive Candidate Matches (after matching): 6
+- Repetitive Reference Matches (after matching): 2

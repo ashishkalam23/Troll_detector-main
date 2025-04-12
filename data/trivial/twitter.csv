@@ -1,0 +1,13 @@
+tweet_id,user_id,tweet,timestamp,hashtags
+1001,2001,"The government announced a new policy today! #policy #news",2025-02-15 10:05:00,"#policy,#news"
+1002,2002,"New policy updates: the government unveils a plan to boost the economy. #economy",2025-02-15 10:10:00,"#economy"
+1003,2003,"Breaking: New government policy causing a stir among citizens. #breaking",2025-02-15 10:15:00,"#breaking"
+1004,2004,"The proposed reform could reshape public services. #reform",2025-02-15 10:20:00,"#reform"
+1005,2005,"Critics say the new policy lacks clarity. #debate #policy",2025-02-15 10:25:00,"#debate,#policy"
+1006,2006,"Government's new economic policy is already sparking discussions. #economy #policy",2025-02-15 10:30:00,"#economy,#policy"
+1007,2007,"What are the long-term impacts of this policy change? #questions",2025-02-15 10:35:00,"#questions"
+1008,2008,"Supporters applaud the new policy for its forward-thinking approach. #support",2025-02-15 10:40:00,"#support"
+1009,2009,"Opponents argue the policy will harm small businesses. #criticism",2025-02-15 10:45:00,"#criticism"
+1010,2010,"Latest updates on the government's policy reform. #update #news",2025-02-15 10:50:00,"#update,#news"
+1011,2011,"Government's new economic policy is already sparking discussions. #economy",2025-02-15 10:30:00,"#economy"
+1012,2012,"New economic policy is sparking discussions. #economy",2025-02-15 10:30:00,""

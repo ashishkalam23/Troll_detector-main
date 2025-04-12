@@ -1,0 +1,10 @@
+pip
+pandas
+os
+numpy
+keybert
+tqdm
+sentence_transformers
+contractions
+python-dotenv
+swifter

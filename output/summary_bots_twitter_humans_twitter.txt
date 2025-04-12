@@ -1,0 +1,36 @@
+Pipeline Summary
+=================
+
+Summary
+-----------------
+Candidate Dataset: bots_twitter (Tweet2)
+Reference Dataset: humans_twitter (Tweet)
+
+Paraphrase Similarity (Threshold: 0.8)
+Total Matches Found: 377643
+Average Match Similarity: 0.81
+
+Candidates:
+- Total Candidates: 25018
+- Candidates Matched to References: 24028 (96.0%)
+- Repetitive Candidates: 0 (0.0%)
+
+References:
+- Total References: 24982
+- References Matched by Candidates: 23954 (95.9%)
+- Repetitive References: 0 (0.0%)
+
+Cross-Matching Paraphrase Repetition Analysis (Threshold 0.8):
+- Repetitive Candidates that Matched References: 0 (0.0% of repetitive candidates)
+- Titles Matched by Repetitive Candidates: 0 (0.0% of matched titles)
+
+
+Detailed Metrics
+--------------------
+Internal Repetitions:
+- Candidate Internal Repetitions (pairs): 0
+- Reference Internal Repetitions (pairs): 0
+
+Repetitive Match Statistics:
+- Repetitive Candidate Matches (after matching): 0
+- Repetitive Reference Matches (after matching): 0

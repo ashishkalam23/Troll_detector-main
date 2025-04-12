@@ -1,0 +1,36 @@
+Pipeline Summary
+=================
+
+Light Summary
+-----------------
+Candidate Dataset: r_comments (body)
+Reference Dataset: r_articles (title)
+
+Paraphrase Similarity (Threshold: 0.8)
+Total Matches Found: 104
+Average Match Similarity: 0.82
+
+Candidates:
+- Total Candidates: 650
+- Candidates Matched to References: 35 (5.4%)
+- Repetitive Candidates: 13 (2.0%)
+
+References:
+- Total References: 916
+- References Matched by Candidates: 79 (8.6%)
+- Repetitive References: 144 (15.7%)
+
+Cross-Matching Paraphrase Repetition Analysis (Threshold 0.8):
+- Repetitive Candidates that Matched References: 0 (0.0% of repetitive candidates)
+- Titles Matched by Repetitive Candidates: 0 (0.0% of matched titles)
+
+
+Detailed Metrics
+--------------------
+Internal Repetitions:
+- Candidate Internal Repetitions (pairs): 28
+- Reference Internal Repetitions (pairs): 260
+
+Repetitive Match Statistics:
+- Repetitive Candidate Matches (after matching): 0
+- Repetitive Reference Matches (after matching): 21

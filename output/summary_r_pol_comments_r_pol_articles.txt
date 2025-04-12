@@ -1,0 +1,36 @@
+Pipeline Summary
+=================
+
+Light Summary
+-----------------
+Candidate Dataset: r_pol_comments (body)
+Reference Dataset: r_pol_articles (title)
+
+Paraphrase Similarity (Threshold: 0.8)
+Total Matches Found: 21832
+Average Match Similarity: 0.82
+
+Candidates:
+- Total Candidates: 10718
+- Candidates Matched to References: 1953 (18.2%)
+- Repetitive Candidates: 373 (3.5%)
+
+References:
+- Total References: 9302
+- References Matched by Candidates: 3710 (39.9%)
+- Repetitive References: 2015 (21.7%)
+
+Cross-Matching Paraphrase Repetition Analysis (Threshold 0.8):
+- Repetitive Candidates that Matched References: 52 (13.9% of repetitive candidates)
+- Titles Matched by Repetitive Candidates: 516 (13.9% of matched titles)
+
+
+Detailed Metrics
+--------------------
+Internal Repetitions:
+- Candidate Internal Repetitions (pairs): 1388
+- Reference Internal Repetitions (pairs): 8050
+
+Repetitive Match Statistics:
+- Repetitive Candidate Matches (after matching): 942
+- Repetitive Reference Matches (after matching): 6830
